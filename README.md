@@ -86,7 +86,7 @@ Each student document has the following fields:
 
 ```
 student-management-system/
-├── main.py        # Application source code
+├── Stu_manag_systm using MongoDB.py        # Application source code
 └── README.md      # Project documentation
 ```
 
